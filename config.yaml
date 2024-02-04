@@ -1,0 +1,8 @@
+---
+smtp: sandbox.smtp.mailtrap.io
+port: 2525
+smtp_auth: 70c5903cf8ac0b
+smtp_psswd: f438c1d9c0e933
+mysql_database: logs
+mysql_user: root
+mysql_pswd: 
